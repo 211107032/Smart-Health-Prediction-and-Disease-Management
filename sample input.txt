@@ -1,0 +1,9 @@
+itching,skin_rash,nodal_skin_eruptions
+yellow_crust_ooze,red_sore_around_nose,small_dents_in_nails,inflammatory_nails,blister
+itching, vomiting, fatigue, weight_loss
+chills, vomiting, high_fever, sweating
+skin_rash, chills, joint_pain, vomiting
+chills, fatigue, cough, high_fever
+vomiting, breathlessness, sweating, chest_pain
+burning_micturition, bladder_discomfort, foul_smell_of urine
+itching, skin_rash, fatigue, lethargy
